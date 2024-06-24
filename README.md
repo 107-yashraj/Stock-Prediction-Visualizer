@@ -1,1 +1,1 @@
-# Stock-Prediction-Visualizer
+# Stock-MArket-Forecasting
